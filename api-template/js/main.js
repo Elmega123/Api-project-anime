@@ -38,6 +38,14 @@ fetch(`https://anime-facts-rest-api.herokuapp.com/api/v1/${anime2}`)
 
   }
 
+
+
+
+
+
+
+
+
   here
   // document.getElementById("button2").addEventListener("click", fact)
 
