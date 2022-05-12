@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+  }
+  
+ 
+  img{
+    display: block;
+    margin: 0 auto;
+    height: 15rem;
+  }
+  
+  #dealercard{
+      float: right;
+      
+  }
+ 
+  
+  #player1,#player1img2{
+      float: right;
+      /* padding-right: 300px; */
+  }
+
+
+
+  .stand,.draw,.hide{
+    display: none
+  }
+ 
+
+  section{
+      border: blue 2px solid;
+
+  }
+
+  .dealer{
+    height: 22.8em;
+  }
+  .playerr{
+    height: 23em;
+  }
+
+  #thecard3{
+      border: red 6px solid;
+      float: right;
+      position: relative;
+
+
+
+  }
+  #dealercontent{
+      border: 2px red solid;
+
+      width: 20%;
+
+  }
+
+  #dealerimgs{
+      border: solid green 2px;
+      width: 80%;
+
+}
+
+#dealerimgs,#dealercontent{
+    float: left;
+    height: 100%;
+    background-color: rgb(154, 154, 133);
+    color: rgb(0, 0, 0);
+}
+
+#playercontent , #playerimgs{
+    border: 2px yellow solid;
+    height: 100%;
+    float: left;
+    background-color: beige;
+}
+#playercontent{
+    width: 20%;
+}
+#playerimgs{
+    width: 80%;
+}
+
+#thecard4{
+    float: right;
+}
+#start{
+    display: block;
+}
