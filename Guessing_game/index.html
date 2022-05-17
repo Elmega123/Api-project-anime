@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="This is where your description goes">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Title in the tab</title>
+
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+
+		<h1>Let's play a guessing game</h1>
+		<h2>You have 10 tries to guess a random number Between 1 and 100 </h2>
+		<input type="number" id="guessInput" name="guessInput" min="1" max="100" >
+		<button id="guessButton" type="button" name="button"  > Submit guess </button>
+
+		<h2 id="guessOutput" ></h2>
+
+		<span> Previous Guesses: </span>
+		
+		<ol class="listContainer" id="guessList" >
+
+		</ol>
+
+		<script type="text/javascript" src="js/main.js"></script>
+	</body>
+</html>
