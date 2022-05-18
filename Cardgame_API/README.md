@@ -32,9 +32,9 @@ Worked again with API’s I enjoyed it quite a bit. I love the kind of projects 
   
   <tr>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Cardgame_API"> Gym Website</a>
+<a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Gym%20Website"> Gym Website</a>
         <br />
-      <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Cardgame_API">
+      <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Gym%20Website">
             <img src="https://media.giphy.com/media/4cLZL71gjz6CHGdFhW/giphy.gif" alt="Gym Website"/>
         </a>
     </td>
@@ -42,14 +42,14 @@ Worked again with API’s I enjoyed it quite a bit. I love the kind of projects 
 <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Guessing_game">Guessing Game</a>
       <br />
         <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Guessing_game">
-          <img src="https://media.giphy.com/media/YqXgFE03Umzi3bnCkl/giphy.gif" width="100%" alt="Travelara.org"/>
+          <img src="https://media.giphy.com/media/YqXgFE03Umzi3bnCkl/giphy.gif" width="100%" alt=""/>
         </a>
     </td>
     <td width="33.3%" valign="top">
 <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/OOP_TicTacToe">OOP TicTacToe Game</a>
         <br />
         <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/OOP_TicTacToe">
-          <img src="https://media.giphy.com/media/t3siO0H831Cx8ZiyTq/giphy.gif" width="100%" alt="Portfolio"/>
+          <img src="https://media.giphy.com/media/t3siO0H831Cx8ZiyTq/giphy.gif" width="100%" alt=""/>
         </a>
     </td>
   </tr>
