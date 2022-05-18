@@ -38,14 +38,14 @@ Once again, I created a website It’s been a while since I made my previous web
 <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Guessing_game">Guessing Game</a>
       <br />
         <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Guessing_game">
-          <img src="https://media.giphy.com/media/YqXgFE03Umzi3bnCkl/giphy.gif" width="100%" alt="Travelara.org"/>
+          <img src="https://media.giphy.com/media/YqXgFE03Umzi3bnCkl/giphy.gif" width="100%" alt=""/>
         </a>
     </td>
     <td width="33.3%" valign="top">
 <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/OOP_TicTacToe">OOP TicTacToe Game</a>
         <br />
         <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/OOP_TicTacToe">
-          <img src="https://media.giphy.com/media/t3siO0H831Cx8ZiyTq/giphy.gif" width="100%" alt="Portfolio"/>
+          <img src="https://media.giphy.com/media/t3siO0H831Cx8ZiyTq/giphy.gif" width="100%" alt=""/>
         </a>
     </td>
   </tr>
