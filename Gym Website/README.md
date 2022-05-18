@@ -28,7 +28,7 @@ Once again, I created a website It’s been a while since I made my previous web
   
   <tr>
      <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Guessing_game">Blackjack API Game</a>
+<a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Cardgame_API">Blackjack API Game</a>
       <br />
         <a target="_blank" href="https://github.com/Pablodelao/cool-projects/tree/master/Cardgame_API">
           <img src="https://camo.githubusercontent.com/a6ffb3d1dbbe3aac53eab8d9f06ccc5fad69d66dc65ad61f08eb9c3bb4b69b59/68747470733a2f2f63646e2e676c697463682e676c6f62616c2f33666337333437652d373035302d343331332d386664322d6136316139633236306536342f43617264732e6769663f763d31363532363539323834383331" width="100%" alt=""/>
