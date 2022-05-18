@@ -1,5 +1,5 @@
 # Gym Website: <a href="https://gymwebsiteclient.netlify.app/" target="_blank">Take a look </a>
-<a href="https://simpleblackjack.netlify.app//" target="_blank"><img src="https://media.giphy.com/media/4cLZL71gjz6CHGdFhW/giphy.gif" width="100%" /></a>
+<a href="https://gymwebsiteclient.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/4cLZL71gjz6CHGdFhW/giphy.gif" width="100%" /></a>
 
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
